@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/leonelgonzalez" target="_blank">
+  <a href="https://www.linkedin.com/in/leonel-gonz%C3%A1lez-0169b32a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0JZMHIvRQu6puyvDUCzUcg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/leonelgonzalez" target="_blank">
+</a>
+  <a href="https://github.com/leonelgonzalez](https://github.com/LeoGittt" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:leonel.gonzalez.dev@gmail.com">
