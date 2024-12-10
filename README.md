@@ -74,12 +74,21 @@ Soy una persona comprometida que no deja tareas a medias y siempre busca perfecc
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
 <p align="center">
-  <a href="https://github.com/leonelgonzalez/proyecto-increible">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonelgonzalez&repo=proyecto-increible&theme=radical" alt="Proyecto Increíble" />
+  <a href="https://eventop-frontend.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/EvenTop-Plataforma_de_Eventos-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="EvenTop - Plataforma de Eventos" />
   </a>
-  <a href="https://github.com/leonelgonzalez/diseno-asombroso">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonelgonzalez&repo=diseno-asombroso&theme=radical" alt="Diseño Asombroso" />
-  </a>
+</p>
+
+<p align="center">
+  <strong>EvenTop</strong> - Una plataforma moderna para descubrir y gestionar eventos
+  <br/>
+  • Desarrollada con React, Next.js y diseño responsivo
+  <br/>
+  • Interfaz elegante con modo oscuro y acentos en púrpura
+  <br/>
+  • Sistema completo de gestión de eventos y usuarios
+  <br/>
+  • Desplegada en Vercel para máximo rendimiento
 </p>
 
 <hr/>
