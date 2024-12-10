@@ -79,7 +79,7 @@ Soy un apasionado desarrollador Frontend y diseñador UX/UI de Argentina 🇦�
 </div>
 
 <p align="center">
-Soy un profesional comprometido que combina habilidades técnicas con una visión creativa. Mi enfoque va más allá del código, buscando siempre la mejor experiencia de usuario y el máximo impacto visual. Con un ojo agudo para el diseño y una pasión por la tecnología de vanguardia, estoy preparado para enfrentar cualquier desafío y llevar tus proyectos al siguiente nivel.
+Soy un persona comprometida que combina habilidades técnicas con una visión creativa. Mi enfoque va más allá del código, buscando siempre la mejor experiencia de usuario y el máximo impacto visual. Con un ojo agudo para el diseño y una pasión por la tecnología de vanguardia, estoy preparado para enfrentar cualquier desafío y llevar tus proyectos al siguiente nivel.
 </p>
 
 <div align="center">
@@ -130,7 +130,5 @@ Soy un profesional comprometido que combina habilidades técnicas con una visió
   ¡Gracias por visitar mi perfil! Si estás buscando un desarrollador Frontend y diseñador UX/UI apasionado, comprometido y orientado a resultados, ¡no dudes en contactarme! Estoy siempre abierto a nuevas oportunidades y colaboraciones emocionantes.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonelgonzalez&color=blueviolet" alt="Visitas al perfil" />
-</p>
+
 
