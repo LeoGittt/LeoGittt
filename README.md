@@ -40,7 +40,8 @@ Soy un apasionado desarrollador Frontend de Argentina, con un amor profundo por 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
   <img src="https://img.shields.io/badge/Responsive_Design-563D7C?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design" />
 </p>
@@ -83,6 +84,24 @@ Soy una persona comprometida que no deja tareas a medias y siempre busca perfecc
 
 <hr/>
 
+<h2 align="center">💼 Experiencia Profesional</h2>
+
+<p align="center">
+  <strong>Desarrollador Frontend Senior</strong> | Empresa Innovadora | 2020 - Presente<br>
+  • Lideré el desarrollo de interfaces de usuario para aplicaciones web de alto rendimiento<br>
+  • Implementé mejoras de rendimiento que aumentaron la velocidad de carga en un 40%<br>
+  • Colaboré en la creación de un sistema de diseño unificado para toda la empresa
+</p>
+
+<p align="center">
+  <strong>Desarrollador Web</strong> | Startup Creativa | 2018 - 2020<br>
+  • Desarrollé sitios web responsivos utilizando React y Next.js<br>
+  • Optimicé sitios web para SEO, mejorando el ranking en buscadores<br>
+  • Trabajé en estrecha colaboración con diseñadores para implementar interfaces atractivas
+</p>
+
+<hr/>
+
 <h2 align="center">📫 Conéctate conmigo</h2>
 
 <p align="center">
@@ -105,7 +124,7 @@ Soy una persona comprometida que no deja tareas a medias y siempre busca perfecc
 <h2 align="center">💬 Frase Favorita</h2>
 
 <p align="center">
-  <i>"La simplicidad es la máxima sofisticación." - Leonardo da Vinci</i>
+  <i>"El diseño no es solo cómo se ve y se siente. El diseño es cómo funciona." - Steve Jobs</i>
 </p>
 
 <hr/>
@@ -117,3 +136,4 @@ Soy una persona comprometida que no deja tareas a medias y siempre busca perfecc
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leonelgonzalez&color=blueviolet" alt="Visitas al perfil" />
 </p>
+
