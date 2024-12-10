@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="600" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hombre programando" width="600" />
 </div>
 
 <h1 align="center">¡Hola! 👋 Soy Leonel Gonzalez</h1>
