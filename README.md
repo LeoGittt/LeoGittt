@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hola%2C+Soy+Leonel+Gonzalez;Desarrollador+Frontend;Dise%C3%B1ador+UX%2FUI;Creador+de+Experiencias" alt="Typing SVG" />
 </h1>
@@ -44,19 +42,6 @@ Soy un apasionado desarrollador Frontend y diseñador UX/UI de Argentina 🇦�
 
 <hr/>
 
-<h2 align="center">📊 Estadísticas de GitHub</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonelgonzalez&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Leonel Gonzalez GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonelgonzalez&theme=midnight-purple&hide_border=true&stroke=0000&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="Leonel Gonzalez GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonelgonzalez&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&hide_border=true" alt="Leonel Gonzalez Contribution Graph" />
-</div>
-
-<hr/>
-
 <h2 align="center">🌟 Proyectos Destacados</h2>
 
 <div align="center">
@@ -81,41 +66,6 @@ Soy un apasionado desarrollador Frontend y diseñador UX/UI de Argentina 🇦�
   • Sistema completo de gestión de eventos y usuarios<br>
   • Desplegada en Vercel para máximo rendimiento
 </p>
-
-<hr/>
-
-<h2 align="center">💼 Experiencia Profesional</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/manager.png" alt="Senior Frontend Developer"/>
-        <br />
-        <strong>Desarrollador Frontend Senior</strong>
-        <br />
-        Empresa Innovadora | 2020 - Presente
-        <ul align="left">
-          <li>Lideré el desarrollo de interfaces de usuario para aplicaciones web de alto rendimiento</li>
-          <li>Implementé mejoras de rendimiento que aumentaron la velocidad de carga en un 40%</li>
-          <li>Colaboré en la creación de un sistema de diseño unificado para toda la empresa</li>
-        </ul>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Web Developer"/>
-        <br />
-        <strong>Desarrollador Web</strong>
-        <br />
-        Startup Creativa | 2018 - 2020
-        <ul align="left">
-          <li>Desarrollé sitios web responsivos utilizando React y Next.js</li>
-          <li>Optimicé sitios web para SEO, mejorando el ranking en buscadores</li>
-          <li>Trabajé en estrecha colaboración con diseñadores para implementar interfaces atractivas</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <hr/>
 
@@ -183,8 +133,4 @@ Soy un profesional comprometido que combina habilidades técnicas con una visió
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leonelgonzalez&color=blueviolet" alt="Visitas al perfil" />
 </p>
-
-<div align="center">
-  <img src="https://github.com/leonelgonzalez/leonelgonzalez/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
