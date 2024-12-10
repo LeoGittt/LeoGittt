@@ -1,8 +1,20 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="600" />
+</div>
+
 <h1 align="center">¡Hola! 👋 Soy Leonel Gonzalez</h1>
 <h3 align="center">Desarrollador Frontend & Entusiasta del Diseño de Argentina 🇦🇷</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" />
+  <a href="https://linkedin.com/in/leonelgonzalez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/leonelgonzalez" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:leonel.gonzalez.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <hr/>
@@ -14,10 +26,10 @@ Soy un apasionado desarrollador Frontend de Argentina, con un amor profundo por 
 </p>
 
 <p align="center">
-🚀 Comprometido con el aprendizaje continuo y las nuevas tecnologías<br>
-🎨 Apasionado por el diseño web y la optimización UX<br>
-🧠 Enfocado en resolver problemas de manera estructurada y eficiente<br>
-📊 Conocimientos en SEO para maximizar el valor de cada proyecto
+  <img src="https://img.shields.io/badge/🚀%20Aprendizaje%20Continuo-8A2BE2" alt="Aprendizaje Continuo" />
+  <img src="https://img.shields.io/badge/🎨%20Diseño%20UX/UI-FF69B4" alt="Diseño UX/UI" />
+  <img src="https://img.shields.io/badge/🧠%20Resolución%20de%20Problemas-00CED1" alt="Resolución de Problemas" />
+  <img src="https://img.shields.io/badge/📊%20Optimización%20SEO-32CD32" alt="Optimización SEO" />
 </p>
 
 <hr/>
@@ -57,14 +69,14 @@ Soy una persona comprometida que no deja tareas a medias y siempre busca perfecc
 <div align="center">
   <table>
     <tr>
-      <td align="center">💡 Innovador</td>
-      <td align="center">🤝 Colaborativo</td>
-      <td align="center">🎯 Orientado a resultados</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/light-on.png"/><br>Innovador</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/collaboration.png"/><br>Colaborativo</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/goal.png"/><br>Orientado a resultados</td>
     </tr>
     <tr>
-      <td align="center">🔍 Atención al detalle</td>
-      <td align="center">📚 Aprendizaje continuo</td>
-      <td align="center">⏱️ Gestión eficiente del tiempo</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/search.png"/><br>Atención al detalle</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/book-shelf.png"/><br>Aprendizaje continuo</td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/time-management.png"/><br>Gestión eficiente del tiempo</td>
     </tr>
   </table>
 </div>
@@ -81,13 +93,18 @@ Soy una persona comprometida que no deja tareas a medias y siempre busca perfecc
 
 <p align="center">
   <strong>EvenTop</strong> - Una plataforma moderna para descubrir y gestionar eventos
-  <br/>
-  • Desarrollada con React, Next.js y diseño responsivo
-  <br/>
-  • Interfaz elegante con modo oscuro y acentos en púrpura
-  <br/>
-  • Sistema completo de gestión de eventos y usuarios
-  <br/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Responsive-563D7C?style=flat-square&logo=css3&logoColor=white" alt="Responsive" />
+  <img src="https://img.shields.io/badge/Modo_Oscuro-1A202C?style=flat-square&logo=dark-reader&logoColor=white" alt="Modo Oscuro" />
+</p>
+
+<p align="center">
+  • Interfaz elegante con modo oscuro y acentos en púrpura<br>
+  • Sistema completo de gestión de eventos y usuarios<br>
   • Desplegada en Vercel para máximo rendimiento
 </p>
 
@@ -95,19 +112,32 @@ Soy una persona comprometida que no deja tareas a medias y siempre busca perfecc
 
 <h2 align="center">💼 Experiencia Profesional</h2>
 
-<p align="center">
-  <strong>Desarrollador Frontend Senior</strong> | Empresa Innovadora | 2020 - Presente<br>
-  • Lideré el desarrollo de interfaces de usuario para aplicaciones web de alto rendimiento<br>
-  • Implementé mejoras de rendimiento que aumentaron la velocidad de carga en un 40%<br>
-  • Colaboré en la creación de un sistema de diseño unificado para toda la empresa
-</p>
-
-<p align="center">
-  <strong>Desarrollador Web</strong> | Startup Creativa | 2018 - 2020<br>
-  • Desarrollé sitios web responsivos utilizando React y Next.js<br>
-  • Optimicé sitios web para SEO, mejorando el ranking en buscadores<br>
-  • Trabajé en estrecha colaboración con diseñadores para implementar interfaces atractivas
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <strong>Desarrollador Frontend Senior</strong><br>
+        Empresa Innovadora | 2020 - Presente
+        <ul>
+          <li>Lideré el desarrollo de interfaces de usuario para aplicaciones web de alto rendimiento</li>
+          <li>Implementé mejoras de rendimiento que aumentaron la velocidad de carga en un 40%</li>
+          <li>Colaboré en la creación de un sistema de diseño unificado para toda la empresa</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Desarrollador Web</strong><br>
+        Startup Creativa | 2018 - 2020
+        <ul>
+          <li>Desarrollé sitios web responsivos utilizando React y Next.js</li>
+          <li>Optimicé sitios web para SEO, mejorando el ranking en buscadores</li>
+          <li>Trabajé en estrecha colaboración con diseñadores para implementar interfaces atractivas</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <hr/>
 
