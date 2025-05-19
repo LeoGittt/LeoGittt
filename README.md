@@ -10,40 +10,13 @@
 
 ---
 
-### 🧑‍💻 Sobre mí
+### Sobre mí
 
 <p align="center">
   Soy desarrollador Frontend de Argentina. Me enfoco en crear experiencias digitales <strong>intuitivas</strong>, <strong>visuales</strong> y de <strong>alto rendimiento</strong>.<br/>
   Me gusta construir interfaces limpias, modernas y funcionales, poniendo énfasis en la estética y la experiencia de usuario.
 </p>
 
----
-
-### 🚀 Filosofía de trabajo
-
-<p align="center">
-  <strong>Minimalismo. Precisión. Impacto Visual.</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,figma&theme=light" />
-</p>
-
----
-
-### 💼 Proyecto Destacado
-
-<p align="center">
-  <a href="https://eventop-frontend.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonelgonzalez&repo=eventop-frontend&theme=default&border_color=000000&bg_color=ffffff&title_color=000000&text_color=000000" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>EvenTop</strong> – Plataforma web para descubrir, gestionar y publicar eventos de forma visual e intuitiva.
-</p>
-
----
 
 ### 📫 Contacto
 
@@ -56,8 +29,3 @@
   <a href="https://github.com/LeoGittt" target="_blank">GitHub</a>
 </p>
 
----
-
-<p align="center">
-  <i>"El diseño no es solo cómo se ve. Es cómo funciona." – Steve Jobs</i>
-</p>
